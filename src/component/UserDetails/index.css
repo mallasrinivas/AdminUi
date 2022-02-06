@@ -1,0 +1,11 @@
+.button {
+  background-color: wheat;
+  color: black;
+  border: none;
+  border-radius: 5px;
+}
+.button:hover {
+  background-color: blueviolet;
+  color: white;
+  cursor: pointer;
+}
